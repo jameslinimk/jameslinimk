@@ -7,7 +7,7 @@
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=jameslinimk&label=Profile%20views&color=0e75b6&style=flat" alt="jameslinimk" />
-	<img src="https://dcbadge.vercel.app/api/shield/400029130219061260?style=flat" alt="jameslinimk" />
+	<a href="https://discord.com/users/400029130219061260"> <img src="https://dcbadge.vercel.app/api/shield/400029130219061260?style=flat" alt="jameslinimk" /> </a>
 </p>
 
 - 🔭 I’m currently working on [**a chess enviroment/AI**](https://github.com/jameslinimk/chess-veritas-ai)
